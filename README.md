@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohammed Azmath Ali Khan</h1>
 <h3 align="center">A Certified Linux Admin</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=azmathk&label=Profile%20views&color=0e75b6&style=flat" alt="azmathk" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=azmathk" alt="azmathk" /></a> </p>
-
 - 🔭 I’m currently working at **Sapphire Software Solutions**
 
 - 🌱 I’m currently learning **Devops**
